@@ -105,6 +105,13 @@ public class TextFieldFragment extends DemoLandingFragment {
             return new TextFieldLegacyDemoFragment();
           }
         });
+    additionalDemos.add(
+        new Demo(R.string.cat_textfield_sebastian_demo_title) {
+          @Override
+          public Fragment createFragment() {
+            return new TextFieldSebastianDemoFragment();
+          }
+        });
     return additionalDemos;
   }
 

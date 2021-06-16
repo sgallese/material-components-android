@@ -24,6 +24,7 @@
   <string name="cat_textfield_outlined_icons_demo_title" translatable="false">Outlined Icons Text Field Demo</string>
   <string name="cat_textfield_prefix_suffix_demo_title" translatable="false">Prefix and Suffix Text Field Demo</string>
   <string name="cat_textfield_legacy_demo_title" translatable="false">Legacy Text Field Demo</string>
+  <string name="cat_textfield_sebastian_demo_title" translatable="false">Sebastian Text Field Demo</string>
   <string name="cat_textfield_description" translatable="false">
     Text fields allow users to input, edit, and select text. Text fields typically reside in forms
     but can appear in other places, like dialog boxes and search.
